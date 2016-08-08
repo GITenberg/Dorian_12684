@@ -1,0 +1,27 @@
+_repo: Dorian_12684
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, Nephi
+    birthdate: 1865
+    deathdate: 1923
+    gutenberg_agent_id: '4501'
+    url: http://www.gutenberg.org/2009/agents/4501
+    wikipedia: http://en.wikipedia.org/wiki/Nephi_Anderson
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcc 'PS'
+- !lcsh 'Mormons -- Fiction'
+- GITenberg
+title: Dorian
+url: http://www.gutenberg.org/ebooks/12684
